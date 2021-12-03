@@ -1,0 +1,12 @@
+D:\1150_Instructor\SD116\Bakery\BakeryStreetBakery.UI\BakeryStreetBakery.Data\bin\Debug\BakeryStreetBakery.Data.dll
+D:\1150_Instructor\SD116\Bakery\BakeryStreetBakery.UI\BakeryStreetBakery.Data\bin\Debug\BakeryStreetBakery.Data.pdb
+D:\1150_Instructor\SD116\Bakery\BakeryStreetBakery.UI\BakeryStreetBakery.Data\obj\Debug\BakeryStreetBakery.Data.csproj.AssemblyReference.cache
+D:\1150_Instructor\SD116\Bakery\BakeryStreetBakery.UI\BakeryStreetBakery.Data\obj\Debug\BakeryStreetBakery.Data.csproj.CoreCompileInputs.cache
+D:\1150_Instructor\SD116\Bakery\BakeryStreetBakery.UI\BakeryStreetBakery.Data\obj\Debug\BakeryStreetBakery.Data.dll
+D:\1150_Instructor\SD116\Bakery\BakeryStreetBakery.UI\BakeryStreetBakery.Data\obj\Debug\BakeryStreetBakery.Data.pdb
+D:\1150_Instructor\SD116\BakeryStreetBakery\BakeryStreetBakery\BakeryStreetBakery.Data\bin\Debug\BakeryStreetBakery.Data.dll
+D:\1150_Instructor\SD116\BakeryStreetBakery\BakeryStreetBakery\BakeryStreetBakery.Data\bin\Debug\BakeryStreetBakery.Data.pdb
+D:\1150_Instructor\SD116\BakeryStreetBakery\BakeryStreetBakery\BakeryStreetBakery.Data\obj\Debug\BakeryStreetBakery.Data.csproj.AssemblyReference.cache
+D:\1150_Instructor\SD116\BakeryStreetBakery\BakeryStreetBakery\BakeryStreetBakery.Data\obj\Debug\BakeryStreetBakery.Data.csproj.CoreCompileInputs.cache
+D:\1150_Instructor\SD116\BakeryStreetBakery\BakeryStreetBakery\BakeryStreetBakery.Data\obj\Debug\BakeryStreetBakery.Data.dll
+D:\1150_Instructor\SD116\BakeryStreetBakery\BakeryStreetBakery\BakeryStreetBakery.Data\obj\Debug\BakeryStreetBakery.Data.pdb

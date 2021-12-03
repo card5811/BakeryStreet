@@ -1,0 +1,13 @@
+D:\1150_Instructor\SD116\BakeryStreetBakery\BakeryStreetBakery\BakeryStreetBakery.UI\bin\Debug\BakeryStreetBakery.UI.exe.config
+D:\1150_Instructor\SD116\BakeryStreetBakery\BakeryStreetBakery\BakeryStreetBakery.UI\bin\Debug\BakeryStreetBakery.UI.exe
+D:\1150_Instructor\SD116\BakeryStreetBakery\BakeryStreetBakery\BakeryStreetBakery.UI\bin\Debug\BakeryStreetBakery.UI.pdb
+D:\1150_Instructor\SD116\BakeryStreetBakery\BakeryStreetBakery\BakeryStreetBakery.UI\obj\Debug\BakeryStreetBakery.UI.csproj.AssemblyReference.cache
+D:\1150_Instructor\SD116\BakeryStreetBakery\BakeryStreetBakery\BakeryStreetBakery.UI\obj\Debug\BakeryStreetBakery.UI.csproj.SuggestedBindingRedirects.cache
+D:\1150_Instructor\SD116\BakeryStreetBakery\BakeryStreetBakery\BakeryStreetBakery.UI\obj\Debug\BakeryStreetBakery.UI.csproj.CoreCompileInputs.cache
+D:\1150_Instructor\SD116\BakeryStreetBakery\BakeryStreetBakery\BakeryStreetBakery.UI\obj\Debug\BakeryStreetBakery.UI.exe
+D:\1150_Instructor\SD116\BakeryStreetBakery\BakeryStreetBakery\BakeryStreetBakery.UI\obj\Debug\BakeryStreetBakery.UI.pdb
+D:\1150_Instructor\SD116\BakeryStreetBakery\BakeryStreetBakery\BakeryStreetBakery.UI\bin\Debug\BakeryStreetBakery.Data.dll
+D:\1150_Instructor\SD116\BakeryStreetBakery\BakeryStreetBakery\BakeryStreetBakery.UI\bin\Debug\BakeryStreetBakery.Services.dll
+D:\1150_Instructor\SD116\BakeryStreetBakery\BakeryStreetBakery\BakeryStreetBakery.UI\bin\Debug\BakeryStreetBakery.Data.pdb
+D:\1150_Instructor\SD116\BakeryStreetBakery\BakeryStreetBakery\BakeryStreetBakery.UI\bin\Debug\BakeryStreetBakery.Services.pdb
+D:\1150_Instructor\SD116\BakeryStreetBakery\BakeryStreetBakery\BakeryStreetBakery.UI\obj\Debug\BakeryStreetBakery.UI.csproj.CopyComplete
